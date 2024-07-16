@@ -1,0 +1,15 @@
+
+    1. Identify the parameters that impact the problem
+
+    2. Identify the subproblem
+
+    3. Define the recursive formula including the base case
+
+    4. Implement a naive recursive solution (This is optional)
+
+    5. Turn the recursive formulation into dynamic programming algorithm 
+
+    6. Optimize the recursive solution to use cache (memoization)
+
+    7. Implement using the top-down or bottom-up approach
+ 
